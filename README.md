@@ -41,18 +41,14 @@ We recommend that you use [Draw.io](https://app.diagrams.net/), or MySQL Workben
 Note that you don't need to include your schema, DDL or sample data just yet. Creating these will be part of future project steps.
 
 ## Frequently Asked Questions
-**Q. Can my Project be based on this obscure novel? Can I have some items in the store in my Project given away for free? Can vampires in my Project world be traders of garlic? Can students in this University (in my Project) be given free points without having to complete their assignments?**
+### Can my Project be based on this obscure novel? Can I have some items in the store in my Project given away for free? Can vampires in my Project world be traders of garlic? Can students in this University (in my Project) be given free points without having to complete their assignments?
+Yes. Anything can happen in your Project world and you are the master of that universe. The only thing we require is that you describe in detail any such quirks and deviations from general expectations. To be on the safe side, describe your world like you would to a layman.
 
-A. Yes. Anything can happen in your Project world and you are the master of that universe. The only thing we require is that you describe in detail any such quirks and deviations from general expectations. To be on the safe side, describe your world like you would to a layman.
+### Can I change various things in my Database Outline in later Steps of the Project?
+Yes. But, you would be required to supply the changed version of Project Outline + Database Outline.
 
-**Q. Can I change various things in my Database Outline in later Steps of the Project?**
+### Can I change my Project idea completely, later?
+Yes. But again, the changed version of this Step should be supplied in later steps.
 
-A. Yes. But, you would be required to supply the changed version of Project Outline + Database Outline.
-
-**Q. Can I change my Project idea completely, later?**
-
-A. Yes. But again, the changed version of this Step should be supplied in later steps.
-
-**Q. Do I also need to include a schema diagram from PhPMyAdmin designer, the Create table script out of MySQL Workbench or the MySQL backup from PhPMyAdmin export?**
-
-A. No. You do not need to include those in your report now. You will need them for later steps.
+### Do I also need to include a schema diagram from PhPMyAdmin designer, the Create table script out of MySQL Workbench or the MySQL backup from PhPMyAdmin export?
+No. You do not need to include those in your report now. You will need them for later steps.
